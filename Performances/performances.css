@@ -1,0 +1,61 @@
+/* DEVELOPER Pavisha Amin, IS117-040, Summer 2021 */
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand{
+    font-size: 150%;
+    padding-left: 4px;
+    font-weight: normal;
+}
+
+img{
+    padding-left: 1em;
+    padding-right: 1em;
+    margin: 1px;
+}
+
+body{
+    background-color: #f5c2c7;
+    margin: 0 auto;
+}
+
+section h3{
+    text-align: center;
+    font-weight: initial;
+    font-family: Poppins;
+}
+
+section p{
+    text-align: center;
+    font-family: Poppins;
+    font-weight: initial;
+}
+
+.col-sm-4{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.row::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    alignment: center;
+    align-content: center;
+    padding: 5px;
+    font-size: 10px;
+    height: 20px;
+    margin: auto;
+}

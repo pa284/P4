@@ -1,0 +1,38 @@
+/* DEVELOPER Pavisha Amin, IS117-040, Summer 2021 */
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand{
+    font-size: 150%;
+    padding-left: 4px;
+    font-weight: normal;
+}
+
+img{
+    padding-left: 1em;
+    padding-right: 1em;
+    margin: 1px;
+}
+
+body{
+    background-color: #f5c2c7;
+    margin: 0 auto;
+}
+
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    alignment: center;
+    align-content: center;
+    padding: 5px;
+    font-size: 10px;
+    height: 20px;
+    margin: auto;
+}
